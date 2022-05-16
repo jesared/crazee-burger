@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/crazee-burger/static/css/main.e6c13ad2.css",
-    "main.js": "/crazee-burger/static/js/main.325b48b6.js",
+    "main.js": "/crazee-burger/static/js/main.229ffd19.js",
     "static/js/787.f3cb689f.chunk.js": "/crazee-burger/static/js/787.f3cb689f.chunk.js",
     "static/media/cartman.gif": "/crazee-burger/static/media/cartman.7b5d22183cc0199f5935.gif",
     "index.html": "/crazee-burger/index.html",
     "main.e6c13ad2.css.map": "/crazee-burger/static/css/main.e6c13ad2.css.map",
-    "main.325b48b6.js.map": "/crazee-burger/static/js/main.325b48b6.js.map",
+    "main.229ffd19.js.map": "/crazee-burger/static/js/main.229ffd19.js.map",
     "787.f3cb689f.chunk.js.map": "/crazee-burger/static/js/787.f3cb689f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.325b48b6.js"
+    "static/js/main.229ffd19.js"
   ]
 }
