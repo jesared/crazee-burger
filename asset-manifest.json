@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/crazee-burger/static/css/main.38be36b0.css",
-    "main.js": "/crazee-burger/static/js/main.9052da55.js",
-    "static/js/787.f3cb689f.chunk.js": "/crazee-burger/static/js/787.f3cb689f.chunk.js",
-    "static/media/cartman.gif": "/crazee-burger/static/media/cartman.7b5d22183cc0199f5935.gif",
+    "main.css": "/crazee-burger/static/css/main.e7720ab7.css",
+    "main.js": "/crazee-burger/static/js/main.d10e3c5f.js",
+    "static/media/cat.gif": "/crazee-burger/static/media/cat.8cf39df0362a9d229baa.gif",
     "index.html": "/crazee-burger/index.html",
-    "main.38be36b0.css.map": "/crazee-burger/static/css/main.38be36b0.css.map",
-    "main.9052da55.js.map": "/crazee-burger/static/js/main.9052da55.js.map",
-    "787.f3cb689f.chunk.js.map": "/crazee-burger/static/js/787.f3cb689f.chunk.js.map"
+    "main.e7720ab7.css.map": "/crazee-burger/static/css/main.e7720ab7.css.map",
+    "main.d10e3c5f.js.map": "/crazee-burger/static/js/main.d10e3c5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.38be36b0.css",
-    "static/js/main.9052da55.js"
+    "static/css/main.e7720ab7.css",
+    "static/js/main.d10e3c5f.js"
   ]
 }
